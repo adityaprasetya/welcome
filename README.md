@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is place what i share all information technology, such as:
+
+- Web
+- Web Application
+- Mobile
+
+- Server
+- Database
+- Network
+
+- AI
+- IOT
+- Automation
